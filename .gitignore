@@ -1,0 +1,4 @@
+goliath-model/
+.venv/*
+.idea/*
+.env

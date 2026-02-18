@@ -1,0 +1,5 @@
+discord.py==2.6.4
+transformers==5.2.0
+python-dotenv==1.2.1
+pandas==3.0.1
+datasets==4.5.0
