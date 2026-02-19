@@ -18,7 +18,7 @@ TOKEN="YOUR_TOKEN"
 
 Then, in your terminal, enter the command: 
 ```bash
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 Then you can launch the bot and have fun with it.
 
