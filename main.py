@@ -25,6 +25,7 @@ async def moderate(message):
         try:
             await message.delete()
             await message.channel.send(f"⚠️ Your message has been deleted because it was deemed too toxic ({score:.2f})")
+
         except discord.errors.Forbidden:
             print(f"[WARN] Pas la permission de supprimer le message de {message.author}")
     return score
