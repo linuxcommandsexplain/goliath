@@ -4,6 +4,9 @@ Goliath is a Discord bot equipped with an AI with 125 million parameters based o
 
 # Exemple
 
+![Peek 18-02-2026 20-25](https://github.com/user-attachments/assets/e5c8e56f-5635-4149-9cdd-0c13bc2b46f5)
+
+
 # Installation
 Before you begin, make sure you have Python 3.14 installed on your computer. If not, you can [install it here](https://www.python.org/).
 
@@ -15,7 +18,7 @@ TOKEN="YOUR_TOKEN"
 
 Then, in your terminal, enter the command: 
 ```bash
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 Then you can launch the bot and have fun with it.
 
